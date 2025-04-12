@@ -1,0 +1,9 @@
+voila
+notebook
+yfinance
+numpy
+matplotlib
+pandas
+scikit-learn
+tensorflow
+ipywidgets
